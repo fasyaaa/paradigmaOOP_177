@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemberInitList", "MemberIni
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainIA", "mainIA\mainIA.vcxproj", "{BD57DD3D-CCF7-4E27-8C18-F9A9F496DF3B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asosiasi", "Asosiasi\Asosiasi.vcxproj", "{27D91B08-A9E6-4533-9A32-A9781E994A8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -41,6 +43,18 @@ Global
 		{BD57DD3D-CCF7-4E27-8C18-F9A9F496DF3B}.Release|x64.Build.0 = Release|x64
 		{BD57DD3D-CCF7-4E27-8C18-F9A9F496DF3B}.Release|x86.ActiveCfg = Release|Win32
 		{BD57DD3D-CCF7-4E27-8C18-F9A9F496DF3B}.Release|x86.Build.0 = Release|Win32
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Debug|arm64.ActiveCfg = Debug|arm64
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Debug|arm64.Build.0 = Debug|arm64
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Debug|x64.ActiveCfg = Debug|x64
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Debug|x64.Build.0 = Debug|x64
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Debug|x86.ActiveCfg = Debug|Win32
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Debug|x86.Build.0 = Debug|Win32
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Release|arm64.ActiveCfg = Release|arm64
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Release|arm64.Build.0 = Release|arm64
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Release|x64.ActiveCfg = Release|x64
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Release|x64.Build.0 = Release|x64
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Release|x86.ActiveCfg = Release|Win32
+		{27D91B08-A9E6-4533-9A32-A9781E994A8E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
